@@ -1,0 +1,78 @@
+H:\class\24-1\PROJECT\UMS_TA\DAL\bin\Debug\DAL.dll.config
+H:\class\24-1\PROJECT\UMS_TA\DAL\bin\Debug\DAL.dll
+H:\class\24-1\PROJECT\UMS_TA\DAL\bin\Debug\DAL.pdb
+H:\class\24-1\PROJECT\UMS_TA\DAL\bin\Debug\EntityFramework.dll
+H:\class\24-1\PROJECT\UMS_TA\DAL\bin\Debug\EntityFramework.SqlServer.dll
+H:\class\24-1\PROJECT\UMS_TA\DAL\bin\Debug\EntityFramework.xml
+H:\class\24-1\PROJECT\UMS_TA\DAL\bin\Debug\EntityFramework.SqlServer.xml
+H:\class\24-1\PROJECT\UMS_TA\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+H:\class\24-1\PROJECT\UMS_TA\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+H:\class\24-1\PROJECT\UMS_TA\DAL\obj\Debug\DAL.csproj.Up2Date
+H:\class\24-1\PROJECT\UMS_TA\DAL\obj\Debug\DAL.dll
+H:\class\24-1\PROJECT\UMS_TA\DAL\obj\Debug\DAL.pdb
+H:\class\24-1\PROJECT\UMS_TA\DAL\obj\Debug\DAL.Migrations.entrydata.resources
+H:\class\24-1\PROJECT\UMS_TA\DAL\obj\Debug\DAL.csproj.GenerateResource.cache
+H:\class\24-1\PROJECT\UMS_TA\DAL\obj\Debug\DAL.Migrations.updateseed.resources
+H:\class\24-1\PROJECT\UMS_TA\DAL\obj\Debug\DAL.Migrations.updateseed1.resources
+H:\class\24-1\PROJECT\UMS_TA\DAL\obj\Debug\DAL.Migrations.updateseed2.resources
+H:\class\24-1\PROJECT\UMS_TA\DAL\obj\Debug\DAL.Migrations.studenttable.resources
+H:\class\24-1\PROJECT\UMS_TA\DAL\obj\Debug\DAL.Migrations.convocationrequesttabledb_update.resources
+H:\class\24-1\PROJECT\UMS_TA\DAL\obj\Debug\DAL.Migrations.convocationreq_db_update.resources
+H:\class\24-1\PROJECT\UMS_TA\DAL\obj\Debug\DAL.Migrations.feedsurveytableseeding3.resources
+H:\class\24-1\PROJECT\UMS_TA\DAL\obj\Debug\DAL.Migrations.Certification_db_seeding.resources
+H:\class\24-1\PROJECT\UMS_TA\DAL\obj\Debug\DAL.Migrations.applythesis_db_seeding.resources
+H:\class\24-1\PROJECT\UMS_TA\DAL\obj\Debug\DAL.Migrations.add_req_paper_publish_db_seeding.resources
+H:\class\24-1\PROJECT\UMS_TA\DAL\obj\Debug\DAL.Migrations.publishpaper_db_seeding.resources
+H:\class\24-1\PROJECT\UMS_TA\DAL\obj\Debug\DAL.Migrations.publishpaper_db_seeding_again.resources
+H:\class\24-1\PROJECT\New folder\UMS_TA\DAL\bin\Debug\DAL.dll.config
+H:\class\24-1\PROJECT\New folder\UMS_TA\DAL\bin\Debug\DAL.dll
+H:\class\24-1\PROJECT\New folder\UMS_TA\DAL\bin\Debug\DAL.pdb
+H:\class\24-1\PROJECT\New folder\UMS_TA\DAL\bin\Debug\EntityFramework.dll
+H:\class\24-1\PROJECT\New folder\UMS_TA\DAL\bin\Debug\EntityFramework.SqlServer.dll
+H:\class\24-1\PROJECT\New folder\UMS_TA\DAL\bin\Debug\EntityFramework.xml
+H:\class\24-1\PROJECT\New folder\UMS_TA\DAL\bin\Debug\EntityFramework.SqlServer.xml
+H:\class\24-1\PROJECT\New folder\UMS_TA\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+H:\class\24-1\PROJECT\New folder\UMS_TA\DAL\obj\Debug\DAL.Migrations.entrydata.resources
+H:\class\24-1\PROJECT\New folder\UMS_TA\DAL\obj\Debug\DAL.Migrations.updateseed.resources
+H:\class\24-1\PROJECT\New folder\UMS_TA\DAL\obj\Debug\DAL.Migrations.updateseed1.resources
+H:\class\24-1\PROJECT\New folder\UMS_TA\DAL\obj\Debug\DAL.Migrations.updateseed2.resources
+H:\class\24-1\PROJECT\New folder\UMS_TA\DAL\obj\Debug\DAL.Migrations.studenttable.resources
+H:\class\24-1\PROJECT\New folder\UMS_TA\DAL\obj\Debug\DAL.Migrations.convocationrequesttabledb_update.resources
+H:\class\24-1\PROJECT\New folder\UMS_TA\DAL\obj\Debug\DAL.Migrations.convocationreq_db_update.resources
+H:\class\24-1\PROJECT\New folder\UMS_TA\DAL\obj\Debug\DAL.Migrations.feedsurveytableseeding3.resources
+H:\class\24-1\PROJECT\New folder\UMS_TA\DAL\obj\Debug\DAL.Migrations.Certification_db_seeding.resources
+H:\class\24-1\PROJECT\New folder\UMS_TA\DAL\obj\Debug\DAL.Migrations.applythesis_db_seeding.resources
+H:\class\24-1\PROJECT\New folder\UMS_TA\DAL\obj\Debug\DAL.Migrations.add_req_paper_publish_db_seeding.resources
+H:\class\24-1\PROJECT\New folder\UMS_TA\DAL\obj\Debug\DAL.Migrations.publishpaper_db_seeding.resources
+H:\class\24-1\PROJECT\New folder\UMS_TA\DAL\obj\Debug\DAL.Migrations.publishpaper_db_seeding_again.resources
+H:\class\24-1\PROJECT\New folder\UMS_TA\DAL\obj\Debug\DAL.csproj.GenerateResource.cache
+H:\class\24-1\PROJECT\New folder\UMS_TA\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+H:\class\24-1\PROJECT\New folder\UMS_TA\DAL\obj\Debug\DAL.csproj.Up2Date
+H:\class\24-1\PROJECT\New folder\UMS_TA\DAL\obj\Debug\DAL.dll
+H:\class\24-1\PROJECT\New folder\UMS_TA\DAL\obj\Debug\DAL.pdb
+H:\class\24-1\PROJECT\New folder\UMS_TA\DAL\obj\Debug\DAL.Migrations.change_datatype.resources
+H:\class\24-1\PROJECT\New folder\UMS_TA\DAL\obj\Debug\DAL.Migrations.table_inter_internshiplisting_company.resources
+H:\class\24-1\PROJECT\New folder\UMS_TA\DAL\obj\Debug\DAL.Migrations.database_table_relationship.resources
+H:\class\24-1\PROJECT\New folder\UMS_TA\DAL\obj\Debug\DAL.Migrations.aaaaaa.resources
+H:\class\24-1\PROJECT\New folder\UMS_TA\DAL\obj\Debug\DAL.Migrations.table_inter_internshiplisting_companyasasa.resources
+H:\class\24-1\PROJECT\New folder\UMS_TA\DAL\obj\Debug\DAL.Migrations.aaaaaassassa.resources
+H:\class\24-1\PROJECT\New folder\UMS_TA\DAL\obj\Debug\DAL.Migrations.asasasasas_updating_database_internshippublishlist.resources
+H:\class\24-1\PROJECT\New folder\UMS_TA\DAL\obj\Debug\DAL.Migrations.updating_internshippublishlist.resources
+H:\class\24-1\PROJECT\New folder\UMS_TA\DAL\obj\Debug\DAL.Migrations.updating_company.resources
+H:\class\24-1\PROJECT\New folder\UMS_TA\DAL\obj\Debug\DAL.Migrations.updateing_database_table_teacher.resources
+H:\class\24-1\PROJECT\New folder\UMS_TA\DAL\obj\Debug\DAL.Migrations.asasaaaaaaaaaaa.resources
+H:\class\24-1\PROJECT\New folder\UMS_TA\DAL\obj\Debug\DAL.Migrations.updatedatabase_studentprofile.resources
+H:\class\24-1\PROJECT\New folder\UMS_TA\DAL\obj\Debug\DAL.Migrations.a11111111111111111111111111111111111111.resources
+H:\class\24-1\PROJECT\New folder\UMS_TA\DAL\obj\Debug\DAL.Migrations.ppp11.resources
+H:\class\24-1\PROJECT\New folder\UMS_TA\DAL\obj\Debug\DAL.Migrations.toukir11.resources
+H:\class\24-1\PROJECT\New folder\UMS_TA\DAL\obj\Debug\DAL.Migrations.t8.resources
+H:\class\24-1\PROJECT\New folder\UMS_TA\DAL\obj\Debug\DAL.Migrations.p123.resources
+H:\class\24-1\PROJECT\New folder\UMS_TA\DAL\obj\Debug\DAL.Migrations.p6.resources
+H:\class\24-1\PROJECT\New folder\UMS_TA\DAL\obj\Debug\DAL.Migrations.p7.resources
+H:\class\24-1\PROJECT\New folder\UMS_TA\DAL\obj\Debug\DAL.Migrations.p8.resources
+H:\class\24-1\PROJECT\New folder\UMS_TA\DAL\obj\Debug\DAL.Migrations.p9.resources
+H:\class\24-1\PROJECT\New folder\UMS_TA\DAL\obj\Debug\DAL.Migrations.p10.resources
+H:\class\24-1\PROJECT\New folder\UMS_TA\DAL\obj\Debug\DAL.Migrations.p11_create_token_table.resources
+H:\class\24-1\PROJECT\New folder\UMS_TA\DAL\obj\Debug\DAL.Migrations.p11_create_token_table_update.resources
+H:\class\24-1\PROJECT\New folder\UMS_TA\DAL\obj\Debug\DAL.Migrations.p12_update_table.resources
+H:\class\24-1\PROJECT\New folder\UMS_TA\DAL\obj\Debug\DAL.Migrations.p12_update_table_FG.resources

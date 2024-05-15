@@ -1,0 +1,28 @@
+H:\class\24-1\PROJECT\UMS_TA\BLL\bin\Debug\BLL.dll
+H:\class\24-1\PROJECT\UMS_TA\BLL\bin\Debug\BLL.pdb
+H:\class\24-1\PROJECT\UMS_TA\BLL\bin\Debug\DAL.dll
+H:\class\24-1\PROJECT\UMS_TA\BLL\bin\Debug\EntityFramework.dll
+H:\class\24-1\PROJECT\UMS_TA\BLL\bin\Debug\DAL.pdb
+H:\class\24-1\PROJECT\UMS_TA\BLL\bin\Debug\DAL.dll.config
+H:\class\24-1\PROJECT\UMS_TA\BLL\bin\Debug\EntityFramework.xml
+H:\class\24-1\PROJECT\UMS_TA\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+H:\class\24-1\PROJECT\UMS_TA\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+H:\class\24-1\PROJECT\UMS_TA\BLL\obj\Debug\BLL.csproj.Up2Date
+H:\class\24-1\PROJECT\UMS_TA\BLL\obj\Debug\BLL.dll
+H:\class\24-1\PROJECT\UMS_TA\BLL\obj\Debug\BLL.pdb
+H:\class\24-1\PROJECT\UMS_TA\BLL\bin\Debug\AutoMapper.dll
+H:\class\24-1\PROJECT\UMS_TA\BLL\bin\Debug\AutoMapper.xml
+H:\class\24-1\PROJECT\New folder\UMS_TA\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+H:\class\24-1\PROJECT\New folder\UMS_TA\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+H:\class\24-1\PROJECT\New folder\UMS_TA\BLL\obj\Debug\BLL.dll
+H:\class\24-1\PROJECT\New folder\UMS_TA\BLL\obj\Debug\BLL.pdb
+H:\class\24-1\PROJECT\New folder\UMS_TA\BLL\bin\Debug\BLL.dll
+H:\class\24-1\PROJECT\New folder\UMS_TA\BLL\bin\Debug\BLL.pdb
+H:\class\24-1\PROJECT\New folder\UMS_TA\BLL\bin\Debug\AutoMapper.dll
+H:\class\24-1\PROJECT\New folder\UMS_TA\BLL\bin\Debug\DAL.dll
+H:\class\24-1\PROJECT\New folder\UMS_TA\BLL\bin\Debug\EntityFramework.dll
+H:\class\24-1\PROJECT\New folder\UMS_TA\BLL\bin\Debug\DAL.pdb
+H:\class\24-1\PROJECT\New folder\UMS_TA\BLL\bin\Debug\DAL.dll.config
+H:\class\24-1\PROJECT\New folder\UMS_TA\BLL\bin\Debug\AutoMapper.xml
+H:\class\24-1\PROJECT\New folder\UMS_TA\BLL\bin\Debug\EntityFramework.xml
+H:\class\24-1\PROJECT\New folder\UMS_TA\BLL\obj\Debug\BLL.csproj.Up2Date

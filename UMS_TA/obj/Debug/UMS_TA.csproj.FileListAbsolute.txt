@@ -1,0 +1,156 @@
+H:\class\24-1\PROJECT\UMS_TA\UMS_TA\bin\UMS_TA.dll.config
+H:\class\24-1\PROJECT\UMS_TA\UMS_TA\bin\UMS_TA.dll
+H:\class\24-1\PROJECT\UMS_TA\UMS_TA\bin\UMS_TA.pdb
+H:\class\24-1\PROJECT\UMS_TA\UMS_TA\bin\roslyn\csc.exe
+H:\class\24-1\PROJECT\UMS_TA\UMS_TA\bin\roslyn\csc.exe.config
+H:\class\24-1\PROJECT\UMS_TA\UMS_TA\bin\roslyn\csc.rsp
+H:\class\24-1\PROJECT\UMS_TA\UMS_TA\bin\roslyn\csi.exe
+H:\class\24-1\PROJECT\UMS_TA\UMS_TA\bin\roslyn\csi.exe.config
+H:\class\24-1\PROJECT\UMS_TA\UMS_TA\bin\roslyn\csi.rsp
+H:\class\24-1\PROJECT\UMS_TA\UMS_TA\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+H:\class\24-1\PROJECT\UMS_TA\UMS_TA\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+H:\class\24-1\PROJECT\UMS_TA\UMS_TA\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+H:\class\24-1\PROJECT\UMS_TA\UMS_TA\bin\roslyn\Microsoft.CodeAnalysis.dll
+H:\class\24-1\PROJECT\UMS_TA\UMS_TA\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+H:\class\24-1\PROJECT\UMS_TA\UMS_TA\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+H:\class\24-1\PROJECT\UMS_TA\UMS_TA\bin\roslyn\Microsoft.CSharp.Core.targets
+H:\class\24-1\PROJECT\UMS_TA\UMS_TA\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+H:\class\24-1\PROJECT\UMS_TA\UMS_TA\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+H:\class\24-1\PROJECT\UMS_TA\UMS_TA\bin\roslyn\Microsoft.Managed.Core.targets
+H:\class\24-1\PROJECT\UMS_TA\UMS_TA\bin\roslyn\Microsoft.VisualBasic.Core.targets
+H:\class\24-1\PROJECT\UMS_TA\UMS_TA\bin\roslyn\Microsoft.Win32.Primitives.dll
+H:\class\24-1\PROJECT\UMS_TA\UMS_TA\bin\roslyn\System.AppContext.dll
+H:\class\24-1\PROJECT\UMS_TA\UMS_TA\bin\roslyn\System.Collections.Immutable.dll
+H:\class\24-1\PROJECT\UMS_TA\UMS_TA\bin\roslyn\System.Console.dll
+H:\class\24-1\PROJECT\UMS_TA\UMS_TA\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+H:\class\24-1\PROJECT\UMS_TA\UMS_TA\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+H:\class\24-1\PROJECT\UMS_TA\UMS_TA\bin\roslyn\System.Diagnostics.StackTrace.dll
+H:\class\24-1\PROJECT\UMS_TA\UMS_TA\bin\roslyn\System.Globalization.Calendars.dll
+H:\class\24-1\PROJECT\UMS_TA\UMS_TA\bin\roslyn\System.IO.Compression.dll
+H:\class\24-1\PROJECT\UMS_TA\UMS_TA\bin\roslyn\System.IO.Compression.ZipFile.dll
+H:\class\24-1\PROJECT\UMS_TA\UMS_TA\bin\roslyn\System.IO.FileSystem.dll
+H:\class\24-1\PROJECT\UMS_TA\UMS_TA\bin\roslyn\System.IO.FileSystem.Primitives.dll
+H:\class\24-1\PROJECT\UMS_TA\UMS_TA\bin\roslyn\System.Net.Http.dll
+H:\class\24-1\PROJECT\UMS_TA\UMS_TA\bin\roslyn\System.Net.Sockets.dll
+H:\class\24-1\PROJECT\UMS_TA\UMS_TA\bin\roslyn\System.Reflection.Metadata.dll
+H:\class\24-1\PROJECT\UMS_TA\UMS_TA\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+H:\class\24-1\PROJECT\UMS_TA\UMS_TA\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+H:\class\24-1\PROJECT\UMS_TA\UMS_TA\bin\roslyn\System.Security.Cryptography.Encoding.dll
+H:\class\24-1\PROJECT\UMS_TA\UMS_TA\bin\roslyn\System.Security.Cryptography.Primitives.dll
+H:\class\24-1\PROJECT\UMS_TA\UMS_TA\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+H:\class\24-1\PROJECT\UMS_TA\UMS_TA\bin\roslyn\System.Text.Encoding.CodePages.dll
+H:\class\24-1\PROJECT\UMS_TA\UMS_TA\bin\roslyn\System.Threading.Tasks.Extensions.dll
+H:\class\24-1\PROJECT\UMS_TA\UMS_TA\bin\roslyn\System.ValueTuple.dll
+H:\class\24-1\PROJECT\UMS_TA\UMS_TA\bin\roslyn\System.Xml.ReaderWriter.dll
+H:\class\24-1\PROJECT\UMS_TA\UMS_TA\bin\roslyn\System.Xml.XmlDocument.dll
+H:\class\24-1\PROJECT\UMS_TA\UMS_TA\bin\roslyn\System.Xml.XPath.dll
+H:\class\24-1\PROJECT\UMS_TA\UMS_TA\bin\roslyn\System.Xml.XPath.XDocument.dll
+H:\class\24-1\PROJECT\UMS_TA\UMS_TA\bin\roslyn\vbc.exe
+H:\class\24-1\PROJECT\UMS_TA\UMS_TA\bin\roslyn\vbc.exe.config
+H:\class\24-1\PROJECT\UMS_TA\UMS_TA\bin\roslyn\vbc.rsp
+H:\class\24-1\PROJECT\UMS_TA\UMS_TA\bin\roslyn\VBCSCompiler.exe
+H:\class\24-1\PROJECT\UMS_TA\UMS_TA\bin\roslyn\VBCSCompiler.exe.config
+H:\class\24-1\PROJECT\UMS_TA\UMS_TA\bin\BLL.dll
+H:\class\24-1\PROJECT\UMS_TA\UMS_TA\bin\EntityFramework.dll
+H:\class\24-1\PROJECT\UMS_TA\UMS_TA\bin\EntityFramework.SqlServer.dll
+H:\class\24-1\PROJECT\UMS_TA\UMS_TA\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+H:\class\24-1\PROJECT\UMS_TA\UMS_TA\bin\Newtonsoft.Json.dll
+H:\class\24-1\PROJECT\UMS_TA\UMS_TA\bin\System.Net.Http.Formatting.dll
+H:\class\24-1\PROJECT\UMS_TA\UMS_TA\bin\System.Web.Http.dll
+H:\class\24-1\PROJECT\UMS_TA\UMS_TA\bin\System.Web.Http.WebHost.dll
+H:\class\24-1\PROJECT\UMS_TA\UMS_TA\bin\BLL.pdb
+H:\class\24-1\PROJECT\UMS_TA\UMS_TA\bin\EntityFramework.xml
+H:\class\24-1\PROJECT\UMS_TA\UMS_TA\bin\EntityFramework.SqlServer.xml
+H:\class\24-1\PROJECT\UMS_TA\UMS_TA\bin\Newtonsoft.Json.xml
+H:\class\24-1\PROJECT\UMS_TA\UMS_TA\bin\System.Net.Http.Formatting.xml
+H:\class\24-1\PROJECT\UMS_TA\UMS_TA\bin\System.Web.Http.xml
+H:\class\24-1\PROJECT\UMS_TA\UMS_TA\bin\System.Web.Http.WebHost.xml
+H:\class\24-1\PROJECT\UMS_TA\UMS_TA\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+H:\class\24-1\PROJECT\UMS_TA\UMS_TA\obj\Debug\UMS_TA.csproj.AssemblyReference.cache
+H:\class\24-1\PROJECT\UMS_TA\UMS_TA\obj\Debug\UMS_TA.csproj.CoreCompileInputs.cache
+H:\class\24-1\PROJECT\UMS_TA\UMS_TA\obj\Debug\UMS_TA.csproj.Up2Date
+H:\class\24-1\PROJECT\UMS_TA\UMS_TA\obj\Debug\UMS_TA.dll
+H:\class\24-1\PROJECT\UMS_TA\UMS_TA\obj\Debug\UMS_TA.pdb
+H:\class\24-1\PROJECT\UMS_TA\UMS_TA\bin\DAL.dll
+H:\class\24-1\PROJECT\UMS_TA\UMS_TA\bin\AutoMapper.dll
+H:\class\24-1\PROJECT\UMS_TA\UMS_TA\bin\DAL.pdb
+H:\class\24-1\PROJECT\UMS_TA\UMS_TA\bin\DAL.dll.config
+H:\class\24-1\PROJECT\UMS_TA\UMS_TA\bin\AutoMapper.xml
+H:\class\24-1\PROJECT\New folder\UMS_TA\UMS_TA\bin\UMS_TA.dll.config
+H:\class\24-1\PROJECT\New folder\UMS_TA\UMS_TA\bin\UMS_TA.dll
+H:\class\24-1\PROJECT\New folder\UMS_TA\UMS_TA\bin\UMS_TA.pdb
+H:\class\24-1\PROJECT\New folder\UMS_TA\UMS_TA\bin\roslyn\csc.exe
+H:\class\24-1\PROJECT\New folder\UMS_TA\UMS_TA\bin\roslyn\csc.exe.config
+H:\class\24-1\PROJECT\New folder\UMS_TA\UMS_TA\bin\roslyn\csc.rsp
+H:\class\24-1\PROJECT\New folder\UMS_TA\UMS_TA\bin\roslyn\csi.exe
+H:\class\24-1\PROJECT\New folder\UMS_TA\UMS_TA\bin\roslyn\csi.exe.config
+H:\class\24-1\PROJECT\New folder\UMS_TA\UMS_TA\bin\roslyn\csi.rsp
+H:\class\24-1\PROJECT\New folder\UMS_TA\UMS_TA\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+H:\class\24-1\PROJECT\New folder\UMS_TA\UMS_TA\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+H:\class\24-1\PROJECT\New folder\UMS_TA\UMS_TA\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+H:\class\24-1\PROJECT\New folder\UMS_TA\UMS_TA\bin\roslyn\Microsoft.CodeAnalysis.dll
+H:\class\24-1\PROJECT\New folder\UMS_TA\UMS_TA\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+H:\class\24-1\PROJECT\New folder\UMS_TA\UMS_TA\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+H:\class\24-1\PROJECT\New folder\UMS_TA\UMS_TA\bin\roslyn\Microsoft.CSharp.Core.targets
+H:\class\24-1\PROJECT\New folder\UMS_TA\UMS_TA\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+H:\class\24-1\PROJECT\New folder\UMS_TA\UMS_TA\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+H:\class\24-1\PROJECT\New folder\UMS_TA\UMS_TA\bin\roslyn\Microsoft.Managed.Core.targets
+H:\class\24-1\PROJECT\New folder\UMS_TA\UMS_TA\bin\roslyn\Microsoft.VisualBasic.Core.targets
+H:\class\24-1\PROJECT\New folder\UMS_TA\UMS_TA\bin\roslyn\Microsoft.Win32.Primitives.dll
+H:\class\24-1\PROJECT\New folder\UMS_TA\UMS_TA\bin\roslyn\System.AppContext.dll
+H:\class\24-1\PROJECT\New folder\UMS_TA\UMS_TA\bin\roslyn\System.Collections.Immutable.dll
+H:\class\24-1\PROJECT\New folder\UMS_TA\UMS_TA\bin\roslyn\System.Console.dll
+H:\class\24-1\PROJECT\New folder\UMS_TA\UMS_TA\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+H:\class\24-1\PROJECT\New folder\UMS_TA\UMS_TA\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+H:\class\24-1\PROJECT\New folder\UMS_TA\UMS_TA\bin\roslyn\System.Diagnostics.StackTrace.dll
+H:\class\24-1\PROJECT\New folder\UMS_TA\UMS_TA\bin\roslyn\System.Globalization.Calendars.dll
+H:\class\24-1\PROJECT\New folder\UMS_TA\UMS_TA\bin\roslyn\System.IO.Compression.dll
+H:\class\24-1\PROJECT\New folder\UMS_TA\UMS_TA\bin\roslyn\System.IO.Compression.ZipFile.dll
+H:\class\24-1\PROJECT\New folder\UMS_TA\UMS_TA\bin\roslyn\System.IO.FileSystem.dll
+H:\class\24-1\PROJECT\New folder\UMS_TA\UMS_TA\bin\roslyn\System.IO.FileSystem.Primitives.dll
+H:\class\24-1\PROJECT\New folder\UMS_TA\UMS_TA\bin\roslyn\System.Net.Http.dll
+H:\class\24-1\PROJECT\New folder\UMS_TA\UMS_TA\bin\roslyn\System.Net.Sockets.dll
+H:\class\24-1\PROJECT\New folder\UMS_TA\UMS_TA\bin\roslyn\System.Reflection.Metadata.dll
+H:\class\24-1\PROJECT\New folder\UMS_TA\UMS_TA\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+H:\class\24-1\PROJECT\New folder\UMS_TA\UMS_TA\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+H:\class\24-1\PROJECT\New folder\UMS_TA\UMS_TA\bin\roslyn\System.Security.Cryptography.Encoding.dll
+H:\class\24-1\PROJECT\New folder\UMS_TA\UMS_TA\bin\roslyn\System.Security.Cryptography.Primitives.dll
+H:\class\24-1\PROJECT\New folder\UMS_TA\UMS_TA\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+H:\class\24-1\PROJECT\New folder\UMS_TA\UMS_TA\bin\roslyn\System.Text.Encoding.CodePages.dll
+H:\class\24-1\PROJECT\New folder\UMS_TA\UMS_TA\bin\roslyn\System.Threading.Tasks.Extensions.dll
+H:\class\24-1\PROJECT\New folder\UMS_TA\UMS_TA\bin\roslyn\System.ValueTuple.dll
+H:\class\24-1\PROJECT\New folder\UMS_TA\UMS_TA\bin\roslyn\System.Xml.ReaderWriter.dll
+H:\class\24-1\PROJECT\New folder\UMS_TA\UMS_TA\bin\roslyn\System.Xml.XmlDocument.dll
+H:\class\24-1\PROJECT\New folder\UMS_TA\UMS_TA\bin\roslyn\System.Xml.XPath.dll
+H:\class\24-1\PROJECT\New folder\UMS_TA\UMS_TA\bin\roslyn\System.Xml.XPath.XDocument.dll
+H:\class\24-1\PROJECT\New folder\UMS_TA\UMS_TA\bin\roslyn\vbc.exe
+H:\class\24-1\PROJECT\New folder\UMS_TA\UMS_TA\bin\roslyn\vbc.exe.config
+H:\class\24-1\PROJECT\New folder\UMS_TA\UMS_TA\bin\roslyn\vbc.rsp
+H:\class\24-1\PROJECT\New folder\UMS_TA\UMS_TA\bin\roslyn\VBCSCompiler.exe
+H:\class\24-1\PROJECT\New folder\UMS_TA\UMS_TA\bin\roslyn\VBCSCompiler.exe.config
+H:\class\24-1\PROJECT\New folder\UMS_TA\UMS_TA\bin\BLL.dll
+H:\class\24-1\PROJECT\New folder\UMS_TA\UMS_TA\bin\EntityFramework.dll
+H:\class\24-1\PROJECT\New folder\UMS_TA\UMS_TA\bin\EntityFramework.SqlServer.dll
+H:\class\24-1\PROJECT\New folder\UMS_TA\UMS_TA\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+H:\class\24-1\PROJECT\New folder\UMS_TA\UMS_TA\bin\Newtonsoft.Json.dll
+H:\class\24-1\PROJECT\New folder\UMS_TA\UMS_TA\bin\System.Net.Http.Formatting.dll
+H:\class\24-1\PROJECT\New folder\UMS_TA\UMS_TA\bin\System.Web.Http.dll
+H:\class\24-1\PROJECT\New folder\UMS_TA\UMS_TA\bin\System.Web.Http.WebHost.dll
+H:\class\24-1\PROJECT\New folder\UMS_TA\UMS_TA\bin\AutoMapper.dll
+H:\class\24-1\PROJECT\New folder\UMS_TA\UMS_TA\bin\DAL.dll
+H:\class\24-1\PROJECT\New folder\UMS_TA\UMS_TA\bin\BLL.pdb
+H:\class\24-1\PROJECT\New folder\UMS_TA\UMS_TA\bin\EntityFramework.xml
+H:\class\24-1\PROJECT\New folder\UMS_TA\UMS_TA\bin\EntityFramework.SqlServer.xml
+H:\class\24-1\PROJECT\New folder\UMS_TA\UMS_TA\bin\Newtonsoft.Json.xml
+H:\class\24-1\PROJECT\New folder\UMS_TA\UMS_TA\bin\System.Net.Http.Formatting.xml
+H:\class\24-1\PROJECT\New folder\UMS_TA\UMS_TA\bin\System.Web.Http.xml
+H:\class\24-1\PROJECT\New folder\UMS_TA\UMS_TA\bin\System.Web.Http.WebHost.xml
+H:\class\24-1\PROJECT\New folder\UMS_TA\UMS_TA\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+H:\class\24-1\PROJECT\New folder\UMS_TA\UMS_TA\bin\AutoMapper.xml
+H:\class\24-1\PROJECT\New folder\UMS_TA\UMS_TA\bin\DAL.pdb
+H:\class\24-1\PROJECT\New folder\UMS_TA\UMS_TA\bin\DAL.dll.config
+H:\class\24-1\PROJECT\New folder\UMS_TA\UMS_TA\obj\Debug\UMS_TA.csproj.AssemblyReference.cache
+H:\class\24-1\PROJECT\New folder\UMS_TA\UMS_TA\obj\Debug\UMS_TA.csproj.CoreCompileInputs.cache
+H:\class\24-1\PROJECT\New folder\UMS_TA\UMS_TA\obj\Debug\UMS_TA.csproj.Up2Date
+H:\class\24-1\PROJECT\New folder\UMS_TA\UMS_TA\obj\Debug\UMS_TA.dll
+H:\class\24-1\PROJECT\New folder\UMS_TA\UMS_TA\obj\Debug\UMS_TA.pdb
